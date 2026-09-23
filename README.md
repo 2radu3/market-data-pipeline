@@ -39,3 +39,10 @@ The **Market Data Pipeline** is built to handle streaming ticks, order book upda
  │ (TimescaleDB /  │      │ (Redis / FastAPI│
  │  ClickHouse)    │      │  WebSockets)    │
  └─────────────────┘      └─────────────────┘
+```
+## 🚀 Getting Started
+```
+git clone https://github.com/2radu3/market-data-pipeline
+cd market-data-pipeline
+```
+
